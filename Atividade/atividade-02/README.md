@@ -5,6 +5,6 @@ c) Atributo\
 d) Domínio de um Atributo\
 e) Generalização/especialização\
 f) Entidade Associativa\
-g) Cardinalidade de um Atributo\
+g) Cardinalidade de um Atributo
 
 
